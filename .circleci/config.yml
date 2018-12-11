@@ -5,4 +5,4 @@ jobs:
       - image: ubuntu:16.04
     steps:
       - checkout
-      - run: echo $HELLO Testt
+      - run: echo $HELLO Testtt
